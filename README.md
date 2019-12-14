@@ -33,8 +33,6 @@ Modify the line 57 in ModEntry.cs
 
 #### Modify the position of the roses
 
-
-![Image](https://raw.githubusercontent.com/pjimenezmateo/birthdayevent-stardew-valley/master/images/Collage.png)
 Modify lines 307 to 313 in ModEntry.cs
 
 #### Modify the items sold at the store
