@@ -1,0 +1,5 @@
+/home/gef/Projects/BirthdayEvent/BirthdayEvent/obj/Debug/BirthdayEvent.csprojAssemblyReference.cache
+/home/gef/Projects/BirthdayEvent/BirthdayEvent/bin/Debug/BirthdayEvent.dll
+/home/gef/Projects/BirthdayEvent/BirthdayEvent/bin/Debug/BirthdayEvent.pdb
+/home/gef/Projects/BirthdayEvent/BirthdayEvent/obj/Debug/BirthdayEvent.dll
+/home/gef/Projects/BirthdayEvent/BirthdayEvent/obj/Debug/BirthdayEvent.pdb

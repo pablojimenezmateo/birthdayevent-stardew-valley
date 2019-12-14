@@ -1,0 +1,10 @@
+﻿{
+  "Name": "BirthdayEvent",
+  "Author": "Gef",
+  "Version": "1.0.0",
+  "Description": "Happy birthday!",
+  "UniqueID": "gef.birthday",
+  "EntryDll": "BirthdayEvent.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}
