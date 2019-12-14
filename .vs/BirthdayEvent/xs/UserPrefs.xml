@@ -1,16 +1,16 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="BirthdayEvent/BirthdayLetter.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BirthdayEvent/ModEntry.cs">
     <Files>
-      <File FileName="BirthdayEvent/ModEntry.cs" Line="326" Column="10" />
-      <File FileName="BirthdayEvent/manifest.json" Line="2" Column="25" />
-      <File FileName="BirthdayEvent/BirthdayLetter.cs" Line="1" Column="1" />
+      <File FileName="BirthdayEvent/ModEntry.cs" Line="304" Column="14" />
+      <File FileName="BirthdayEvent/manifest.json" Line="7" Column="29" />
+      <File FileName="BirthdayEvent/BirthdayLetter.cs" Line="4" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BirthdayEvent" expanded="True">
             <Node name="BirthdayEvent" expanded="True">
-              <Node name="BirthdayLetter.cs" selected="True" />
+              <Node name="ModEntry.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -18,7 +18,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.BirthdayEvent FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

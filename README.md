@@ -5,7 +5,7 @@ When this mod is activated (by pressing the B button on the targets computer by 
 
 This is a Monodev project, but the code should be usable in any editor.
 
-Working with Stardew Valley 1.4.2 and SMAPI 3.0.1.
+Working with Stardew Valley 1.4.3 and SMAPI 3.0.1.
 
 ![Image](https://raw.githubusercontent.com/pjimenezmateo/birthdayevent-stardew-valley/master/images/Collage.png)
 
